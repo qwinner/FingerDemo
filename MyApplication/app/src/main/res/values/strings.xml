@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FingerD</string>
+
+    <string name="txt_fingerplace">请按手指&#8230;</string>
+    <string name="txt_fg_read">指纹读取中...</string>
+    <string name="txt_fg_process">处理中...</string>
+    <string name="txt_fg_rd_success">指纹读取成功</string>
+    <string name="txt_fg_identify">指纹识别中...</string>
+    <string name="txt_fg_gen_failed">生成特征值失败</string>
+    <string name="txt_fg_ok">指纹验证成功</string>
+    <string name="txt_fg_failed">指纹验证失败</string>
+    <string name="txt_fg_timeout">上传图像超时,请重来</string>
+    <string name="txt_fg_input_ok">指纹录入成功</string>
+    <string name="txt_fg_input_failed">指纹录入失败</string>
+
+    <string name="txt_fingerplace2">请再按手指&#8230;</string>
+    <string name="txt_fp_bidui_ok">两次比对成功</string>
+    <string name="txt_fp_bidui_failed">两次比对失败</string>
+
+
+    <string name="bt_start_radar">开始读卡</string>
+    <string name="bt_stop_radar">取消读卡</string>
+</resources>
