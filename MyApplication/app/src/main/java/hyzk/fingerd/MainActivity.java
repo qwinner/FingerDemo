@@ -125,7 +125,7 @@ public class MainActivity extends AppCompatActivity {
             public void onGetImageExFail() {
                 if(bcheck){
                     bcheck=false;
-                    tvFpStatus.setText(getString(R.string.txt_fg_input_failed));
+                    tvFpStatus.setText(getString(R.string.txt_fingerplace2));
                     vFingerprint.PS_GetImageEx();
                     count++;
                 }else{
